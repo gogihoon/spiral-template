@@ -1,7 +1,7 @@
 # Spiral-AI Project Template
 
 AI 에이전트(Claude Code 등)와 함께 1인 개발을 위한 프로젝트 템플릿.
-Spiral 모델을 베이스로 하고, Karpathy의 코딩 규율을 스킬로 결합했다.
+Spiral 모델을 베이스로 하고, Karpathy의 코딩 규율을 스킬로 채용했다.
 전체 방법론은 **[docs/methodology.md](docs/methodology.md)** 참조.
 
 ## 빠른 시작
